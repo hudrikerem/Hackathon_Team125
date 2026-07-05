@@ -32,7 +32,7 @@ Takım 125
 ---
 
 ## Hedef Kitle
-* Aşçılar
+* Aşçılar, yemek pişirenler
 * Ürün takibi yapmak isteyenler
 * Sürdürülebilirliğe önem veren ve israftan kaçınmak isteyenler
 
