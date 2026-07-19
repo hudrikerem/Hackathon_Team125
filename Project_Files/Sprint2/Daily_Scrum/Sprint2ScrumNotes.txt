@@ -1,0 +1,18 @@
+15/07/2026 13.00  
+
+-AI ile STT yaklaşan ürünlere dair bildirim ve yemek tarifi üzerine konuşuldu
+-Hüdai ve Kadir backend, Abdullah frontend, Berha ise AI bölümünde görevlendirildi
+-Logo seçildi
+-Uygulamadaki profil bölümü hakkında konuşuldu
+-Uygulamada ekleyeceğimiz gıdanın özelliklerine göre ayrımı hakkında konuşuldu
+-Ayarlar bölümü ve neler ekleneceği hakkında konuşuldu
+-Bir sonraki görüşme 18/07/2026 13.00'a ayarlandı.
+			
+
+18/07/2026 13.00
+
+-Abdullah tanıtım sayfalarını düzenledi ve tanıttı
+-Hüdai kodladığı demoyu ekibe tanıttı
+-Berha yapay zeka entegrasyonu hakkında neler yapabileceğimizi aktardı ve geliştirme içinde olduğunu söyledi
+-Uygulamaya sadece Google ile giriş yapılması kararlaştırıldı
+-Profil, Ayarlar ve Giriş sayfalarına neler eklenebileceği konuşuldu
