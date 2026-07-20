@@ -4,9 +4,9 @@ Takım 125
 ---
 
 <p align="center">
-  <img src="https://github.com/hudrikerem/EcoChef-AI/tree/main/Project_Files/Documents/logo.png" alt="Project Logo" width="200" height="200">
+  <img src="[https://github.com/hudrikerem/EcoChef-AI/tree/main/Project_Files/Documents/logo.png](https://github.com/hudrikerem/EcoChef-AI/tree/main/Project_Files/Documents/logo.png)" alt="Project Logo" width="200" height="200">
   <br>
-  <strong>Proje Adı veya Slogan Buraya</strong>
+  <strong>EcoChef AI</strong>
 </p>
 
 ---
