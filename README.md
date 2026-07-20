@@ -3,7 +3,11 @@ Takım 125
 
 ---
 
-# Ürün İle İlgili Bilgiler
+<p align="center">
+  <img src="https://github.com/hudrikerem/EcoChef-AI/tree/main/Project_Files/Documents/logo.png" alt="Project Logo" width="200" height="200">
+  <br>
+  <strong>Proje Adı veya Slogan Buraya</strong>
+</p>
 
 ---
 
