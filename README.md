@@ -3,14 +3,6 @@ Takım 125
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hudrikerem/EcoChef-AI/main/Project_Files/Documents/logo.jpg" alt="Project Logo" width="200" height="200">
-  <br>
-  <strong>EcoChef AI</strong>
-</p>
-
----
-
 ## Takım Elemanları
 * Berha Çelik: Product Owner
 * Hüdai Kerem Eralp : Scrum Master
@@ -19,7 +11,11 @@ Takım 125
 ---
 
 ## Ürün İsmi
---EcoChef AI--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hudrikerem/EcoChef-AI/main/Project_Files/Documents/logo.jpg" alt="Project Logo" width="200" height="200">
+  <br>
+  <strong>EcoChef AI</strong>
+</p>
 
 ---
 
