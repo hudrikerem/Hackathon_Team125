@@ -45,3 +45,10 @@ Takım 125
 <img width="1772" height="680" alt="Ekran görüntüsü 2026-07-05 215039" src="https://github.com/user-attachments/assets/7e758814-7d92-4f98-be17-05f7b2adf991" />
 <img width="1766" height="482" alt="Ekran görüntüsü 2026-07-05 215452" src="https://github.com/user-attachments/assets/5cd3bfbc-f844-46df-bd0f-a98ec8703ae0" />
 
+# Sprint 2
+---
+* Daily Scrum: Daily Scrum toplantılarımız Google Meets üzerinden yapılmıştır. Toplantıların öncesi, sonrasına ait mesajlar ve toplantı içeriğinin özeti burada açıklanmıştır: [Sprint 2 Daily Scrum](https://github.com/hudrikerem/Hackathon_Team125/tree/main/Project_Files/Sprint2/Daily_Scrum)
+* [Sprint 2 Board Updates](https://github.com/hudrikerem/EcoChef-AI/tree/main/Project_Files/Sprint2/Backlog%20SS)
+* [App Screenshots](https://github.com/hudrikerem/EcoChef-AI/tree/main/Project_Files/Sprint2/App_SS)
+
+
